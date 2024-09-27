@@ -1,5 +1,5 @@
 ## Personal Information
-- name : han jae min
+- name : jae min
 
 ## Features
 - Displays daily and total page views on your page.  
