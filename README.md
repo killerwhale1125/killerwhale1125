@@ -48,4 +48,4 @@ Java 기반 백엔드 개발자로서 **어떤 병목이 발생하며, 어떻게
 ## 📫 연락처
 
 - Blog: [https://killerwhale1125.github.io](https://killerwhale1125.github.io)
-- Email: killerwhale1125@gmail.com
+- Email: killerwhale1125@naver.com
