@@ -29,7 +29,7 @@ Java 기반 백엔드 개발자로서 **어떤 병목이 발생하며, 어떻게
 ## 🛠️ 사용 기술
 
 - **Language:** Java
-- **Framework:** Spring Boot, JPA, MyBatis, JSP, JSTL
+- **Framework:** Spring Boot, JPA, MyBatis
 - **Database:** MySQL
 - **Infra:** Docker, AWS EC2/RDS, Nginx, Tomcat
 - **CI/CD & Monitoring:** GitHub Actions, Shell Script, Prometheus, Grafana
